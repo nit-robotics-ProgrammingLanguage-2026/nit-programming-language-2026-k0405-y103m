@@ -16,6 +16,7 @@ double a;
 scanf("%lf, &x");
 
      a=(x/(r*pi))*360.0;
-     
+
+printf("%f/n", a);
     return 0;
 }
